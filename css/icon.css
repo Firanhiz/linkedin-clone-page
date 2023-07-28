@@ -1,0 +1,202 @@
+.icon {
+    display: inline-flex;
+    background-image: url(../icons/search.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.icon-2xs {
+    width: 12px;
+    height: 12px;
+}
+
+.icon-xs {
+    width: 16px;
+    height: 16px;
+}
+
+.icon-sm {
+    width: 18px;
+    height: 18px;
+}
+
+.icon-md {
+    width: 20px;
+    height: 20px;
+}
+
+.icon-lg {
+    width: 24px;
+    height: 24px;
+}
+
+/* header-content icons */
+.icon-search {
+    background-image: url(../icons/search.svg);
+}
+
+.icon-home {
+    background-image: url(../icons/home.svg);
+}
+
+.icon-users {
+    background-image: url(../icons/users.svg);
+}
+
+.icon-briefcase {
+    background-image: url(../icons/briefcase.svg);
+}
+
+.icon-message {
+    background-image: url(../icons/message.svg);
+}
+
+.icon-bell {
+    background-image: url(../icons/bell.svg);
+}
+
+.icon-grid {
+    background-image: url(../icons/grid.svg);
+}
+
+.icon-chevron-up {
+    background-image: url(../icons/chevron-up.svg);
+}
+/* header-content icons end*/
+
+
+
+
+
+
+
+/*  */
+.icon {
+    /* width: 100%;
+    height: 100%; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-search {
+    background-image: url(../icons/search.svg);
+}
+
+.icon-home {
+    background-image: url(../icons/home.svg);
+}
+
+.icon-users {
+    background-image: url(../icons/users.svg);
+}
+
+.icon-briefcase {
+    background-image: url(../icons/briefcase.svg);
+}
+
+.icon-message {
+    background-image: url(../icons/message.svg);
+}
+
+.icon-bell {
+    background-image: url(../icons/bell.svg);
+}
+
+.icon-grid {
+    background-image: url(../icons/grid.svg);
+}
+
+.icon-chevron {
+    background-image: url(../icons/chevron-up.svg);
+}
+
+.icon-chevron-up {
+    background-image: url(../icons/chevron-up.svg);
+}
+
+.icon-users-2 {
+    background-image: url(../icons/users-2.svg);
+}
+
+.icon-plus-1 {
+    background-image: url(../icons/plus-1.svg);
+}
+
+/* MIDDLE SIDE */
+.icon-camera {
+    background-image: url(../icons/camera.svg);
+}
+
+.icon-video {
+    background-image: url(../icons/video.svg);
+}
+
+.icon-calendar {
+    background-image: url(../icons/calendar.svg);
+}
+
+.icon-edit {
+    background-image: url(../icons/edit.svg);
+}
+
+.icon-more-horizontal {
+    background-image: url(../icons/more-horizontal.svg);
+}
+
+.icon-heart {
+    background-image: url(../icons/heart.svg);
+}
+
+.icon-thumbs-up {
+    background-image: url(../icons/thumbs-up.svg);
+}
+
+.icon-ellipse {
+    background-image: url(../icons/ellipse.svg);
+}
+
+.icon-thumbs-up-1 {
+    background-image: url(../icons/thumbs-up-1.svg);
+}
+
+.icon-message-square {
+    background-image: url(../icons/message-square.svg);
+}
+
+.icon-share-2 {
+    background-image: url(../icons/share-2.svg);
+}
+
+.icon-send {
+    background-image: url(../icons/send.svg);
+}
+/* MIDDLE SIDE */
+
+/* RIGHT SIDE */
+.icon-plus {
+    background-image: url(../img/plus.svg);
+}
+
+.icon-more-horizontal-png {
+    background-image: url(../icons/more-horizontal-png.png);
+}
+
+.icon-edit-1 {
+    background-image: url(../icons/edit-1.svg);
+}
+
+.icon-horizontal-1 {
+    background-image: url(../icons/more-horizontal-1.svg);
+}
+
+.icon-chevron-up-1 {
+    background-image: url(../icons/chevron-up-1.svg);
+}
+/* RIGHT SIDE */
+/*  */
